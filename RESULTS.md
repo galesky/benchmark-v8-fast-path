@@ -1,10 +1,10 @@
 # Hardware
 
-SO: Linux leoxxxxxxxxx 4.14.158-1-MANJARO #1 SMP PREEMPT Fri Dec 6 07:01:33 UTC 2019 x86_64 GNU/Linux
-RAM: 16GB 2133Hz DDR4
-Processor: Intel(R) Core(TM) i7-8550U CPU @ 1.80GHz
-Benchmarkin lib: https://www.npmjs.com/package/benchmark
-Package infos can be found in the package-lock.json file
+* SO: Linux leoxxxxxxxxx 4.14.158-1-MANJARO #1 SMP PREEMPT Fri Dec 6 07:01:33 UTC 2019 x86_64 GNU/Linux
+* RAM: 16GB 2133Hz DDR4
+* Processor: Intel(R) Core(TM) i7-8550U CPU @ 1.80GHz
+* Benchmarkin lib: https://www.npmjs.com/package/benchmark
+* Package infos can be found in the package-lock.json file
 
 # Referencing Express' current implementation
 
