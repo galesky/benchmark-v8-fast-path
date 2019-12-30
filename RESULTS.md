@@ -88,4 +88,4 @@ For the express use case, the simple clone strategy is still the fastest;
 # Observations
 * As the perfomance differences on the benchmark were huge (up to 10x), no more efforst were put in evaluating the exact ratio;
 * In order to really narrow down to a more predictable range, a more precise approach would need to include more scenarios/runs/hardware;
-*
+* The effect of using 'Node 12+' over 'Node 9' for `spread` and `Array.from` is amazing.
